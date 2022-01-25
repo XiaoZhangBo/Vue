@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\bin\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.exe
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\bin\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.deps.json
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\bin\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\bin\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\bin\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.dll
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\bin\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.pdb
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\obj\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\obj\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\obj\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\obj\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\obj\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.dll
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\obj\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.pdb
+C:\Users\Administrator\Desktop\VS集\ConsoleApp1--（控制台应用 .NET Core）\obj\Debug\netcoreapp3.1\ConsoleApp1--（控制台应用 .NET Core）.genruntimeconfig.cache
